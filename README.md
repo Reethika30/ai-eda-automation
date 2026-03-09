@@ -19,7 +19,7 @@ Upload CSV → Auto-Profile → Generate Plots → GPT-4 Summary → HTML Report
 ## 🚀 How to Run
 ```bash
 pip install pandas numpy matplotlib seaborn openai
-export OPENAI_API_KEY=your_key
+export OPENAI_API_KEY=XYZ
 python src/auto_eda.py data/sample_dataset.csv
 # Output: output/eda_report.html
 ```
