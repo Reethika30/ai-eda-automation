@@ -1,0 +1,11 @@
+id,age,income,credit_score,loan_amount,default,employment_type,region
+1,35,65000,720,15000,0,Full-time,Northeast
+2,42,82000,680,25000,0,Full-time,West
+3,28,45000,590,10000,1,Part-time,Southeast
+4,55,120000,780,50000,0,Full-time,Midwest
+5,31,52000,640,18000,0,Contract,Northeast
+6,48,95000,710,35000,0,Full-time,West
+7,23,32000,550,8000,1,Part-time,Southeast
+8,39,78000,700,22000,0,Full-time,Midwest
+9,44,88000,730,30000,0,Full-time,Northeast
+10,26,41000,600,12000,1,Contract,West
